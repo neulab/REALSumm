@@ -1,1 +1,1 @@
-# REALSumm: Re-evaluating EvALuation in text Summarization
+# REALSumm: Re-evaluating EvALuation in Summarization
