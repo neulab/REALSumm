@@ -47,8 +47,7 @@ For each of the collected system outputs, we first check if the outputs are alre
 
 For all system outputs, we score them against their provided ``ref.txt`` files i.e. we don't score every output against a common reference file. This is done since some models follow some specific preprocessing rules e.g. the left round brackets ``(`` are replaced by ``-lrb-`` etc. and we did not want to punish a model by scoring it against a reference that is tokenized differently.
 
-- [Raw outputs](Must add link here)
-- [Tokenized outputs](Must add link here)
+- [Tokenized outputs](https://drive.google.com/file/d/1V-GFsLeXtIB_XjFqF9XtaDQ78Bg3HKmx/view?usp=sharing)
 
 ### Alignment
 The outputs that we received from different models were not aligned with each other. To analyze them together, it was critical to align them such that we get all the generated summaries of every article. We decided to align all of the generated summaries to the outputs from PtrGen ([See et al., 2017](https://www.aclweb.org/anthology/P17-1099/)). 
@@ -66,7 +65,7 @@ python -m process_data.realign -ip <file to realign> -op <output path. -matching
 
 Since this is a noisy procedure, on average we find 100 summaries out of 11490 that don't get aligned. We replace them by a special string ``### NO MATCH FOUND ###``.
 
-- [Final aligned outputs used for scoring](Must add link here)
+- [Final aligned outputs used for scoring](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 
 ## Scoring system summaries
 To score all the outputs, they should be in the following directory structure (already done in the link above). Each file contains one summary per line.
