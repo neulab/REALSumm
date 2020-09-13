@@ -100,7 +100,7 @@ Supported metrics are ``rouge, js2, bertscore, rwe, moverscore, wms, sms`` where
 
 After scoring the summaries by whichever metrics you want, collect all the output pickle files in a directory and merge them using
 ```
-python add command to merge
+python -m score_dict_update.py --in_path <directory with all scored dicts> --out_path <output scores dict path> -action convert_to_new merge dedup
 ```
 
 ## Collecting human judgements
