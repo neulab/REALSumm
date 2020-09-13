@@ -1,45 +1,44 @@
 # REALSumm: Re-evaluating EvALuation in Summarization
 
-## System summaries
-We collected the following system outputs:
+## Collected System summaries
 
 | SNo. | Model | Paper | Variant | Type |
 | ---- | ----- | ----- | ------- | ---- |
-| 1 | HeterGraph | [Want et al., 2020](https://arxiv.org/abs/2004.12393) | default | Ext |
-| 2 | MatchSumm | [Zhong et al., 2020](https://arxiv.org/abs/2004.08795) | default | Ext |
-| 3 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-LSTM-PN-RL | Ext |
-| 4 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-LSTM-PN | Ext |
-| 5 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-LSTM-SL | Ext |
-| 6 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-TF-PN | Ext |
-| 7 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-TF-SL | Ext |
-| 8 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | LSTM-PN-RL | Ext |
-| 9 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | LSTM-PN | Ext |
-| 10 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | LSTM-SL | Ext |
-| 11 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | TF-PN | Ext |
-| 12 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | TF-SL | Ext |
-| 13 | BART | [Lewis et al., 2019](https://arxiv.org/abs/1910.13461) | Ext | Ext |
-| 14 | REFRESH | [Narayan et al., 2018](https://www.aclweb.org/anthology/N18-1158/) | default | Ext |
-| 15 | NeuSumm | [Zhou et al., 2018](https://www.aclweb.org/anthology/P18-1061/) | default | Ext|
-| 16 | BanditSumm | [Dont et al., 2018](https://www.aclweb.org/anthology/D18-1409/) | default | Ext |
-| 17 | SemSim | [Yoon et al., 2020](https://arxiv.org/abs/2002.07767) | default | Abs|
-| 18 | BART | [Lewis et al., 2019](https://arxiv.org/abs/1910.13461) | Abs | Abs |
-| 19 | PreSumm | [Liu et al., 2019](https://www.aclweb.org/anthology/D19-1387/) | Abs | Abs|
-| 20 | PreSumm | [Liu et al., 2019](https://www.aclweb.org/anthology/D19-1387/) | Ext-Abs | Abs|
-| 21 | PreSumm | [Liu et al., 2019](https://www.aclweb.org/anthology/D19-1387/) | Trans-Abs | Abs|
-| 22 | TwoStageRL | [Zhang et al., 2019](https://arxiv.org/abs/1902.09243) | default | Abs|
-| 23 | UniLM | [Dong et al., 2019](https://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation) | V1 | Abs|
-| 24 | UniLM | [Dong et al., 2019](https://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation) | V2 | Abs|
-| 25 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | base | Abs|
-| 26 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | small | Abs|
-| 27 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | large | Abs|
-| 28 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | 3B | Abs|
-| 29 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | 11B | Abs|
-| 30 | BottomUp | [Gehrmann et al., 2018](https://www.aclweb.org/anthology/D18-1443/) | default | Abs|
-| 31 | FastAbsRL | [Chen et al., 2018](https://www.aclweb.org/anthology/P18-1063/) | default | Abs|
-| 32 | FastAbsRL | [Chen et al., 2018](https://www.aclweb.org/anthology/P18-1063/) | Rerank | Abs|
-| 33 | PtrGen | [See et al., 2017](https://www.aclweb.org/anthology/P17-1099/) | baseline | Abs|
-| 34 | PtrGen | [See et al., 2017](https://www.aclweb.org/anthology/P17-1099/) | ptr-gen | Abs|
-| 35 | PtrGen | [See et al., 2017](https://www.aclweb.org/anthology/P17-1099/) | ptr-gen-cov | Abs|
+| 1 | HeterGraph | [Want et al., 2020](https://arxiv.org/abs/2004.12393) | default | Extractive |
+| 2 | MatchSumm | [Zhong et al., 2020](https://arxiv.org/abs/2004.08795) | default | Extractive |
+| 3 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-LSTM-PN-RL | Extractive |
+| 4 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-LSTM-PN | Extractive |
+| 5 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-LSTM-SL | Extractive |
+| 6 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-TF-PN | Extractive |
+| 7 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | BERT-TF-SL | Extractive |
+| 8 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | LSTM-PN-RL | Extractive |
+| 9 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | LSTM-PN | Extractive |
+| 10 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | LSTM-SL | Extractive |
+| 11 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | TF-PN | Extractive |
+| 12 | PNBERT | [Zhong et al., 2020](https://www.aclweb.org/anthology/P19-1100/) | TF-SL | Extractive |
+| 13 | BART | [Lewis et al., 2019](https://arxiv.org/abs/1910.13461) | Ext | Extractive |
+| 14 | REFRESH | [Narayan et al., 2018](https://www.aclweb.org/anthology/N18-1158/) | default | Extractive |
+| 15 | NeuSumm | [Zhou et al., 2018](https://www.aclweb.org/anthology/P18-1061/) | default | Extractive|
+| 16 | BanditSumm | [Dont et al., 2018](https://www.aclweb.org/anthology/D18-1409/) | default | Extractive |
+| 17 | SemSim | [Yoon et al., 2020](https://arxiv.org/abs/2002.07767) | default | Abstractive|
+| 18 | BART | [Lewis et al., 2019](https://arxiv.org/abs/1910.13461) | Abs | Abstractive |
+| 19 | PreSumm | [Liu et al., 2019](https://www.aclweb.org/anthology/D19-1387/) | Abs | Abstractive|
+| 20 | PreSumm | [Liu et al., 2019](https://www.aclweb.org/anthology/D19-1387/) | Ext-Abs | Abstractive|
+| 21 | PreSumm | [Liu et al., 2019](https://www.aclweb.org/anthology/D19-1387/) | Trans-Abs | Abstractive|
+| 22 | TwoStageRL | [Zhang et al., 2019](https://arxiv.org/abs/1902.09243) | default | Abstractive|
+| 23 | UniLM | [Dong et al., 2019](https://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation) | V1 | Abstractive|
+| 24 | UniLM | [Dong et al., 2019](https://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation) | V2 | Abstractive|
+| 25 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | base | Abstractive|
+| 26 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | small | Abstractive|
+| 27 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | large | Abstractive|
+| 28 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | 3B | Abstractive|
+| 29 | T5 | [Raffel et al., 2019](https://arxiv.org/abs/1910.10683) | 11B | Abstractive|
+| 30 | BottomUp | [Gehrmann et al., 2018](https://www.aclweb.org/anthology/D18-1443/) | default | Abstractive|
+| 31 | FastAbsRL | [Chen et al., 2018](https://www.aclweb.org/anthology/P18-1063/) | default | Abstractive|
+| 32 | FastAbsRL | [Chen et al., 2018](https://www.aclweb.org/anthology/P18-1063/) | Rerank | Abstractive|
+| 33 | PtrGen | [See et al., 2017](https://www.aclweb.org/anthology/P17-1099/) | baseline | Abstractive|
+| 34 | PtrGen | [See et al., 2017](https://www.aclweb.org/anthology/P17-1099/) | ptr-gen | Abstractive|
+| 35 | PtrGen | [See et al., 2017](https://www.aclweb.org/anthology/P17-1099/) | ptr-gen-cov | Abstractive|
 
 There are total 35 system outputs, 16 extractive and 19 abstractive.
 
@@ -48,26 +47,25 @@ For each of the collected system outputs, we first check if the outputs are alre
 
 For all system outputs, we score them against their provided ``ref.txt`` files i.e. we don't score every output against a common reference file. This is done since some models follow some specific preprocessing rules e.g. the left round brackets ``(`` are replaced by ``-lrb-`` etc. and we did not want to punish a model by scoring it against a reference that is tokenized differently.
 
-- [Raw outputs](Must add link here)
-- [Tokenized outputs](Must add link here)
+- [Tokenized outputs](https://drive.google.com/file/d/1V-GFsLeXtIB_XjFqF9XtaDQ78Bg3HKmx/view?usp=sharing)
 
 ### Alignment
 The outputs that we received from different models were not aligned with each other. To analyze them together, it was critical to align them such that we get all the generated summaries of every article. We decided to align all of the generated summaries to the outputs from PtrGen ([See et al., 2017](https://www.aclweb.org/anthology/P17-1099/)). 
 
-For every reference summary provided, say ``ref1``, we search for it's closest match in the reference summaries from PtrGen. To do this, we (1) consider only alpha numeric characters from ``ref1`` and take a random substring from it. If this substring exists in any *one* reference summary from PtrGen, we have a match. 
+For every reference summary provided, say ``ref1``, we search for it's closest match in the reference summaries from PtrGen. To do this, we (1) consider only alpha numeric characters from ``ref1`` and take a random substring from it. If this substring exists in exactly *one* reference summary from PtrGen, we have a match. 
 
 To align any two reference files first run 
 ```bash
 python -m process_data.get_alignment -out <ref file to be aligned> -ref <ref file to align against> -matching_path <output mapping file> -length <length of substring to match> -max_attempts <max attempts to try to align a summary> -n_jobs <parallelize over these many cpus>
 ``` 
-This will create a json file at the specified ``mathing_path`` which can be used to permute the contents of any file using 
+This will create a json file at the specified ``matching_path`` which can be used to permute the contents of any file using 
 ```bash
 python -m process_data.realign -ip <file to realign> -op <output path. -matching_path <output json file created from step 1>
 ```
 
 Since this is a noisy procedure, on average we find 100 summaries out of 11490 that don't get aligned. We replace them by a special string ``### NO MATCH FOUND ###``.
 
-- [Final aligned outputs used for scoring](Must add link here)
+- [Final aligned outputs used for scoring](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 
 ## Scoring system summaries
 To score all the outputs, they should be in the following directory structure (already done in the link above). Each file contains one summary per line.
