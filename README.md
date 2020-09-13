@@ -53,13 +53,13 @@ For all system outputs, we score them against their provided ``ref.txt`` files i
 ### Alignment
 The outputs that we received from different models were not aligned with each other. To analyze them together, it was critical to align them such that we get all the generated summaries of every article. We decided to align all of the generated summaries to the outputs from PtrGen ([See et al., 2017](https://www.aclweb.org/anthology/P17-1099/)). 
 
-For every reference summary provided, say ``ref1``, we search for it's closest match in the reference summaries from PtrGen. To do this, we (1) consider only alpha numeric characters from ``ref1`` and take a random substring from it. If this substring exists in any *one* reference summary from PtrGen, we have a match. 
+For every reference summary provided, say ``ref1``, we search for it's closest match in the reference summaries from PtrGen. To do this, we (1) consider only alpha numeric characters from ``ref1`` and take a random substring from it. If this substring exists in exactly *one* reference summary from PtrGen, we have a match. 
 
 To align any two reference files first run 
 ```bash
 python -m process_data.get_alignment -out <ref file to be aligned> -ref <ref file to align against> -matching_path <output mapping file> -length <length of substring to match> -max_attempts <max attempts to try to align a summary> -n_jobs <parallelize over these many cpus>
 ``` 
-This will create a json file at the specified ``mathing_path`` which can be used to permute the contents of any file using 
+This will create a json file at the specified ``matching_path`` which can be used to permute the contents of any file using 
 ```bash
 python -m process_data.realign -ip <file to realign> -op <output path. -matching_path <output json file created from step 1>
 ```
