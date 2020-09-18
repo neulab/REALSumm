@@ -44,13 +44,13 @@ There are total 35 system outputs, 16 extractive and 19 abstractive.
 - [Aligned outputs used for scoring](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 - [Aligned ouputs used for human evaluation](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 
-Please read our reproducibility instructions (TODO: add link) in addition to
+Please read our [reproducibility instructions](https://github.com/neulab/REALSumm/blob/master/reproducibility.md) in addition to
 our paper (TODO: add link) in order to reproduce this work for another dataset.
 
 # Meta-evaluate a new metric on CNN/DM
 ## I can score all the given summaries 
-1. Just give a scores dict in the below format
-2. Run the analysis notebook on the scores dict to get all the graphs and tables
+1. Just give a scores dict in the below format. Make sure to include ``litepyramid_recall``, which is the metric used by human evaluators, in the scores dict.
+2. Run [the analysis notebook](https://github.com/neulab/REALSumm/blob/master/analysis/analysis.ipynb) on the scores dict to get all the graphs and tables used in the paper.
 
 ## Help me score the given summaries
 1. Download the released outputs used for human evaluation
