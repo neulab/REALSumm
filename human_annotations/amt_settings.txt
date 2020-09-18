@@ -1,0 +1,20 @@
+Title: Are the facts in a text?
+
+Description: Answer whether 16 statements are contained in a given 250-word text.
+
+Keywords: Reading Comprehension, Question Answering, Textual Content Evaluation
+
+Reward per assignment: $0.15
+
+Number of assignments per task: 4
+
+Time allotted per assignment: 90 Minutes
+
+Task expires in: 1 Days
+
+Auto-approve and pay Workers in: 3 Days
+
+Worker requirements:
+HIT Approval Rate (%) for all Requesters' HITs greater than or equal to 99
+Number of HITs Approved greater than 5000
+Location is one of (prefer English speaking for need of fluent language)

@@ -1,0 +1,42 @@
+The following example will help explain the instructions, with an example Text and example sentences marked as Present or Not Present:
+
+Text:"Amanda Oleander , 25 , is one of the stars of Periscope , Twitter 's new live broadcasting platform. The artist has been ` loved ' over 7.5 million times since she joined on 14h March. She recently sold a painting for # 20,000. Ellen DEGENERES is the highest ranking star but is trailing behind Amanda with a mere three million ` loves '. While most.
+
+1. Mark sentences Present if their meaning is present in the text, and Not Present if it is not. Example sentences with their right answer:
+Amanda Oleander is 25. - Present
+Amanda Oleander is from LA. - Not Present
+Amanda is more popular than Ellen Degeneres. - Present (this is clear because the text says Ellen Degeneres is trailing behind Amanda in 'loves')
+Ellen Degeneres is on Periscope. - Present
+
+2. Avoid using general knowledge or information that is not included in the text:
+Ellen Degeneres is a star talk show host - Not Present (this is common knowledge, but it is not present in the text)
+
+3. Try to overlook errors in the text with grammar, punctuation, spelling, or upper case / lower case, and accept sentences as long as the meaning is clear.
+Ellen Degeneres is the highest ranking star. - Present (the text says DEGENERES, but it is clear that this is the same as Degeneres)
+Ellen Degeners is the highest ranking star. - Present (the spelling of Degeneres is slightly different but the meaning is clear)
+Ellen Macarthur is the highest ranking star. - Not Present (the name is completely different)
+Ellen Degeneres is the highest ranking street. - Not Present (the meaning is completely different)
+
+4. Disregard parts of the text that do not make any sense, for example 'While most' at the end of the text above. <
+
+5. Shorter/Longer names for the same person/thing are acceptable as long as the meaning is clear.
+Periscope is from Twitter, Inc. - Present (it is clear that ‘Twitter, Inc.’ is a longer name for 'Twitter')
+Amanda Rodriguez Oleander is 25. - Present (‘Amanda Rodriguez Oleander’, is a longer name for Amanda Oleander)
+Amanda is 25. - Present (‘Amanda’, is a shorter name for Amanda Oleander)
+Amanda Mulls is 25. - Not Present (Amanda Mulls is not a longer name for Amanda Oleander)
+
+6. If a fact contains two names for a person or thing like: ‘Ellen Degeneres / Talk show host’, mark it Present if either of the names matches.
+Ellen Degeneres / Talk show host has received 3 million ‘loves’. - Present (the text says that Ellen Degeneres received 3 million loves)
+Oprah / Talk show host has received 3 million ‘loves’. - Not Present (the text does not say this about either ‘Oprah’ or a ‘Talk show host’)
+
+7. Treat numbers and dates approximately and accept money amounts even if mentioned without the currency.
+Amanda Oleander has been viewed almost 8 million times. - Present (text says over 7.5 million times)
+Amanda Oleander joined in mid-March. - Present (text says she joined on 14th March)
+Amanda Oleander joined in April. - Not Present (text says she joined in March, not April)
+Amanda Oleander recently sold a painting for 20,000. - Present (text says ‘# 20,000’, i.e. 20,000 pounds)
+
+8. If the fact is BLANK, mark it Not Present
+
+9. Please be fair with your work. We will not approve work that is obviously insencere, and is not fully answered.
+ 
+Thanks!

@@ -1,0 +1,236 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<section class="container" id="Other" style="margin-bottom:15px; padding: 10px 10px; font-family: Verdana, Geneva, sans-serif; color:#333333; font-size:1.0em;">
+<div class="row col-xs-12 col-md-12"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<p>A &nbsp;text of 50-100 words is given, followed by 16 short sentences. Answer 'Present' if the meaning of the sentence can be inferred from the text. Otherwise, mark 'Not Present'</p>
+
+<p>The following example will help explain the instructions, with an example <strong>Text</strong> and example sentences marked as <span style="color:green">Present</span> 
+or <span style="color:red">Not Present</span>:</p>
+<p style="margin-left: 25px"><strong>Text:</strong><em><span style="font-family: Verdana, Geneva, sans-serif; font-size: 14px;">"Amanda Oleander , 25 , is one of the 
+stars of Periscope , Twitter 's new live broadcasting platform. The artist has been ` loved ' over 7.5 million times since she joined on 14h March. 
+She recently sold a painting for # 20,000. Ellen DEGENERES is the highest ranking star but is trailing behind Amanda with a mere three million ` loves '. While most.
+</span></em></p>
+
+<!--<p style="margin-left: 25px"><em><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">"Tesla chief executive Elon Musk says he will no longer be taking the electric car maker private, just two&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">weeks after saying he was considering a deal. Since Mr Musk announced his plan to delist Tesla, its share&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">price has dropped by 20%. He said he had told the board "that I believe the better path is for Tesla to&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">remain public," and that they agreed. Mr Musk, who owns about a fifth of the company, said he had&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">spoken with shareholders and major banks to consider the privatisation but found the sentiment was&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">"please don't do this"."</span></em></p>-->
+
+<ol>
+	<li>Mark sentences <span style="color:green">Present</span> if their <strong>meaning is present</strong> in the text, and <span style="color:red">Not Present</span> if it is not. Example sentences with their right answer:
+	<ul>
+	    <li><em>Amanda Oleander is 25.</em> - <span style="color:green">Present</span></li>
+	    <li><em>Amanda Oleander is from LA.</em> - <span style="color:red">Not Present</span></li>
+	    <li><em>Amanda is more popular than Ellen Degeneres.</em> - <span style="color:green">Present</span> 
+	    (this is clear because the text says Ellen Degeneres is trailing behind Amanda in 'loves')</li>
+	    <li><em>Ellen Degeneres is on Periscope.</em> - <span style="color:green">Present</span> 
+	 </ul>
+	 </li>
+	
+	<li><strong>Avoid using general knowledge or information that is not included</strong> in the text:
+	<ul>
+	    <li><em>Ellen Degeneres is a star talk show host</em> - <span style="color:red">Not Present</span>
+	    (this is common knowledge, but it is not present in the text)</li>
+	</ul>
+	</li>
+     
+	  <li><strong>Try to overlook errors in the text</strong> with grammar, punctuation, spelling, or upper case / lower case, and accept sentences <strong>as long as the meaning is clear</strong>. 
+	<ul>
+	    <li><em>Ellen Degeneres is the highest ranking star.</em> - <span style="color:green">Present</span> 
+	    (the text says DEGENERES, but it is clear that this is the same as Degeneres)</li>
+	    <li><em>Ellen Degeners is the highest ranking star.</em> - <span style="color:green">Present</span>
+	    (the spelling of Degeneres is slightly different but the meaning is clear)</li>
+	    <li><em>Ellen Macarthur is the highest ranking star.</em> - <span style="color:red">Not Present</span>
+	    (the name is completely different)</li>
+	    <li><em>Ellen Degeneres is the highest ranking street.</em> - <span style="color:red">Not Present</span>
+	    (the meaning is completely different)</li>
+	 </ul>
+	 </li>
+	 
+	 <li><strong>Disregard parts of the text that do not make any sense</strong>, for example 'While most' at the end of the text above. 
+	<</li>
+	
+	 <li><strong>Shorter/Longer names for the same person/thing are acceptable as long as the meaning is clear.</strong>
+	 <ul>
+	    <li><em>Periscope is from Twitter, Inc.</em> - <span style="color:green">Present</span> (it is clear that ‘Twitter, Inc.’ is a longer name for 'Twitter')</li>
+	    <li><em>Amanda Rodriguez Oleander is 25.</em> - <span style="color:green">Present</span> (‘Amanda Rodriguez Oleander’, is a longer name for Amanda Oleander)</li>
+	    <li><em>Amanda is 25.</em> - <span style="color:green">Present</span> (‘Amanda’, is a shorter name for Amanda Oleander)</li>
+	    <li><em>Amanda Mulls is 25.</em> - <span style="color:red">Not Present</span> (Amanda Mulls is not a longer name for Amanda Oleander)</li>
+	 </ul>
+	 </li>
+	 
+	 <li>If a fact contains two names for a person or thing like: ‘Ellen Degeneres / Talk show host’, 
+	 <strong>mark it <span style="color:green">Present</span> if either of the names matches.</strong>
+	 <ul>
+	    <li><em>Ellen Degeneres / Talk show host has received 3 million ‘loves’.</em> - <span style="color:green">Present</span> 
+	    (the text says that Ellen Degeneres received 3 million loves)</li>
+	    <li><em>Oprah / Talk show host has received 3 million ‘loves’.</em> - <span style="color:red">Not Present</span>
+	    (the text does not say this about either ‘Oprah’ or a ‘Talk show host’)</li>
+	 </ul>
+	 </li>
+	 
+	 <li><strong>Treat numbers and dates approximately</strong> and accept money amounts even if mentioned without the currency.
+	 <ul>
+	    <li><em>Amanda Oleander has been viewed almost 8 million times.</em> - <span style="color:green">Present</span> (text says over 7.5 million times)</li>
+	    <li><em>Amanda Oleander joined in mid-March.</em> - <span style="color:green">Present</span> (text says she joined on 14th March)</li>
+	    <li><em>Amanda Oleander joined in April.</em> - <span style="color:red">Not Present</span> (text says she joined in March, not April)</li>
+	    <li><em>Amanda Oleander recently sold a painting for 20,000.</em> - <span style="color:green">Present</span> (text says ‘# 20,000’, i.e. 20,000 pounds)</li>
+	 </ul>
+	 </li>
+	 <li>If the fact is <strong>BLANK</strong>, mark it <span style="color:red">Not Present</span></li>
+	 
+	<li>Please <strong>be fair with your work</strong>. We will not approve work that is obviously <u>insencere</u>, and is <u>not fully answered</u>.<br />
+	&nbsp;</li>
+</ol>
+
+<p><strong>Thanks!</strong></p>
+</div>
+</div>
+<!-- End Instructions --><!-- Content Body -->
+
+<section>
+<fieldset style="border: 1px solid lightgray; position:sticky; top:0px; "><label>Text:</label><br />
+${summary_text}</fieldset>
+
+<fieldset>
+<p><strong>1. </strong>${statement_1}</p>
+
+<div class="radio"><label><input name="S1Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S1Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>2. </strong>${statement_2}</p>
+
+<div class="radio"><label><input name="S2Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S2Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>3. </strong>${statement_3}</p>
+
+<div class="radio"><label><input name="S3Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S3Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>4. </strong>${statement_4}</p>
+
+<div class="radio"><label><input name="S4Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S4Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>5. </strong>${statement_5}</p>
+
+<div class="radio"><label><input name="S5Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S5Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>6. </strong>${statement_6}</p>
+
+<div class="radio"><label><input name="S6Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S6Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>7. </strong>${statement_7}</p>
+
+<div class="radio"><label><input name="S7Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S7Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>8. </strong>${statement_8}</p>
+
+<div class="radio"><label><input name="S8Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S8Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>9. </strong>${statement_9}</p>
+
+<div class="radio"><label><input name="S9Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S9Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>10. </strong>${statement_10}</p>
+
+<div class="radio"><label><input name="S10Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S10Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>11. </strong>${statement_11}</p>
+
+<div class="radio"><label><input name="S11Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S11Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>12. </strong>${statement_12}</p>
+
+<div class="radio"><label><input name="S12Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S12Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>13. </strong>${statement_13}</p>
+
+<div class="radio"><label><input name="S13Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S13Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>14. </strong>${statement_14}</p>
+
+<div class="radio"><label><input name="S14Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S14Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>15. </strong>${statement_15}</p>
+
+<div class="radio"><label><input name="S15Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S15Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>16. </strong>${statement_16}</p>
+
+<div class="radio"><label><input name="S16Answer" type="radio" value="p" required/><span style="color:green">Present</span></label></div>
+
+<div class="radio"><label><input name="S16Answer" type="radio" value="n" required/><span style="color:red">Not Present</span></label></div>
+</fieldset>
+
+
+<fieldset>
+<p>Comments:</p>
+
+<div><textarea id="feedback" name="feedback"></textarea></div>
+</fieldset>
+</section>
+<!-- End Content Body --></div>
+</section>
+<!-- close container -->
+<style type="text/css">fieldset { padding: 10px; background:#fbfbfb; border-radius:5px; margin-bottom:5px; }
+</style>
+
