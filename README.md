@@ -54,7 +54,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
 
 ## Help me score the given summaries
 1. Download the released outputs used for human evaluation. (TODO: make sure they can be directly used)
-2. Update ``scorer.py`` such that (1) if there is any setup required by your metric, make sure to do it in the ``__init__`` function of scorere as the scorere will be used to score all systems. And (2) add your metric in the ``score`` function at lines 110-111 as
+2. Update ``scorer.py`` such that (1) if there is any setup required by your metric, make sure to do it in the ``__init__`` function of scorere as the scorere will be used to score all systems. And (2) add your metric in the ``score`` function as
 ```python
 elif self.metric == "name_of_my_new_metric":
   scores = call_to_my_function_which_gives_scores(passing_appropriate_arguments)
