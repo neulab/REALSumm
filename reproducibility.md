@@ -50,9 +50,9 @@ aligned
 ```
 Calculating scores of all 11490 summaries for all 35 models and 7 metrics is a time consuming process. We calculate scores separately for ``ext`` and ``abs``, one metric at a time and then merge the results. This allows us to parallely run different metrics. To score the ``ext`` or ``abs`` summaries, run:
 ```bash
-python get_scores.py -dp <path to ext or abs> -m <metric to score> -op <path to store output pickle> -lp <log path> -num_ref <number of references per doc: 1 for cnn_dm, 4 for TAC> -ref_sep || sep || -n_jobs <number of cpus to parallelize over>
+python get_scores.py -dp <path to ext or abs> -m <metric to score> -op <path to store output pickle> -lp <log path> -n_jobs <number of cpus to parallelize over>
 ```
-Supported metrics are ``rouge, js2, bertscore, rwe, moverscore, wms, sms`` where ``rouge`` will calculate R-1, R-2 and R-L. Precision, Recall and F-1 variants of all scores will be stored (if the metrics have these variants).
+Supported metrics are ``rouge, js2, bertscore, rwe, moverscore`` where ``rouge`` will calculate R-1, R-2 and R-L. Precision, Recall and F-1 variants of all scores will be stored (if the metrics have these variants).
 
 After scoring the summaries by whichever metrics you want, collect all the output pickle files in a directory and merge them using
 ```
@@ -65,20 +65,12 @@ python -m score_dict_update.py --in_path <directory with all scored dicts> --out
 Out of the 11490 documents, we select 100 for which we'll collect human judgments (See Algorithm 1 in [our paper](Add link here) for our selection procedure). Due to budget constraints, we also arbitrarily select 11 extractive and 14 abstractive outputs for each of the 100 documents. These are marked in the table. Please see [this notebook](Add link here) which selects the 100 documents and writes them in the appropriate format for the next step.
 
 ### Extracting SCUs
-All of our code for creating AMT tasks is based on [LitePyramids](https://github.com/OriShapira/LitePyramids) [[Paper](https://www.aclweb.org/anthology/N19-1072.pdf)]. We create SCUs from the 100 reference summaries ourselves by creating [AMT](https://www.mturk.com/) tasks using the following steps
-
-1. Run ``python pre_create script`` after setting the appropriate global variables to create a csv file.
-2. Upload the csv file to AMT and create your own SCUs.
-3. Download the results from AMT and run ``python post_script`` to create the csv file containing all the SCUs.
+We create SCUs from the 100 reference summaries ourselves by creating [AMT](https://www.mturk.com/) tasks as done in LitePyramids. All of our code for creating AMT tasks is based on [LitePyramids](https://github.com/OriShapira/LitePyramids) [[Paper](https://www.aclweb.org/anthology/N19-1072.pdf)].
 
 You can download [our created SCUs here](Add link here).
 
 ### Gathering annotations
-To gather annotations on AMT, use the following steps:
-1. Run `` python pre_create script`` to create a csv file for each collected system. 
-2. Create a task on AMT and upload one csv file for each task. Please see [annotation_instructions.txt](add link here) for the annotations instructions and [amt_settings.txt](add link here) for the settings used while creating the tasks.
-3. Run ``python clean annotators script`` to remove rogue annotators (if any) and get clean annotations.
-4. Use ``notebook to get human scores and add to sd`` to calculate the human scores for each summary and add it to our metrics scores dict. This can now be used to analyze metrics!
+To gather annotations we create tasks on AMT using these [annotation_instructions.txt](https://github.com/neulab/REALSumm/blob/master/human_annotations/annotation_instructions.txt) and [amt_settings.txt](https://github.com/neulab/REALSumm/blob/master/human_annotations/amt_settings.txt). Finally we use the post processing scripts provided by LitePyramids to collect human judgments.
 
 ## Reevaluating metrics
-The [final scores dicts](https://github.com/neulab/REALSumm/tree/master/scores_dicts) contain all automatic metric as well as human judgments. These are used by [analysis_notebook](Add link here) for all the analysis done in the paper.
+The [final scores dicts](https://github.com/neulab/REALSumm/tree/master/scores_dicts) contain all automatic metric as well as human judgments. These are used by [analysis_notebook](https://github.com/neulab/REALSumm/blob/master/analysis/analysis.ipynb) for all the analysis done in the paper.
