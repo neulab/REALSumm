@@ -1,0 +1,62 @@
+[2020-09-18 11:22:53,786 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/semsim
+[2020-09-18 11:22:54,167 INFO scorer.py:64 : score()] getting scores for model: semsim, variant: out.txt, file num: 0
+[2020-09-18 11:22:54,169 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/presumm
+[2020-09-18 11:22:54,169 INFO scorer.py:64 : score()] getting scores for model: presumm, variant: out_ext_abs.txt, file num: 0
+[2020-09-18 11:22:54,170 INFO scorer.py:64 : score()] getting scores for model: presumm, variant: out_trans_abs.txt, file num: 1
+[2020-09-18 11:22:54,171 INFO scorer.py:64 : score()] getting scores for model: presumm, variant: out_abs.txt, file num: 2
+[2020-09-18 11:22:54,172 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/bart
+[2020-09-18 11:22:54,173 INFO scorer.py:64 : score()] getting scores for model: bart, variant: out.txt, file num: 0
+[2020-09-18 11:22:54,174 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/fast_abs_rl
+[2020-09-18 11:22:54,175 INFO scorer.py:64 : score()] getting scores for model: fast_abs_rl, variant: out_rerank.txt, file num: 0
+[2020-09-18 11:22:54,176 INFO scorer.py:64 : score()] getting scores for model: fast_abs_rl, variant: out_1.txt, file num: 1
+[2020-09-18 11:22:54,177 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/two_stage_rl
+[2020-09-18 11:22:54,178 INFO scorer.py:64 : score()] getting scores for model: two_stage_rl, variant: out.txt, file num: 0
+[2020-09-18 11:22:54,179 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/t5
+[2020-09-18 11:22:54,180 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_base.txt, file num: 0
+[2020-09-18 11:22:54,181 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_large.txt, file num: 1
+[2020-09-18 11:22:54,182 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_11B.txt, file num: 2
+[2020-09-18 11:22:54,183 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_3B.txt, file num: 3
+[2020-09-18 11:22:54,184 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_small.txt, file num: 4
+[2020-09-18 11:22:54,185 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/bottom_up
+[2020-09-18 11:22:54,186 INFO scorer.py:64 : score()] getting scores for model: bottom_up, variant: out.txt, file num: 0
+[2020-09-18 11:22:54,187 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/ptr_generator
+[2020-09-18 11:22:54,187 INFO scorer.py:64 : score()] getting scores for model: ptr_generator, variant: out_pointer_gen.txt, file num: 0
+[2020-09-18 11:22:54,188 INFO scorer.py:64 : score()] getting scores for model: ptr_generator, variant: out_pointer_gen_cov.txt, file num: 1
+[2020-09-18 11:22:54,189 INFO scorer.py:64 : score()] getting scores for model: ptr_generator, variant: out_baseline.txt, file num: 2
+[2020-09-18 11:22:54,190 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/unilm
+[2020-09-18 11:22:54,191 INFO scorer.py:64 : score()] getting scores for model: unilm, variant: out_v1.txt, file num: 0
+[2020-09-18 11:22:54,192 INFO scorer.py:64 : score()] getting scores for model: unilm, variant: out_v2.txt, file num: 1
+[2020-09-18 11:22:54,193 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/neusumm
+[2020-09-18 11:22:54,194 INFO scorer.py:64 : score()] getting scores for model: neusumm, variant: out.txt, file num: 0
+[2020-09-18 11:44:25,111 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/semsim
+[2020-09-18 11:44:25,422 INFO scorer.py:64 : score()] getting scores for model: semsim, variant: out.txt, file num: 0
+[2020-09-18 12:00:57,699 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/semsim
+[2020-09-18 12:00:58,050 INFO scorer.py:64 : score()] getting scores for model: semsim, variant: out.txt, file num: 0
+[2020-09-18 12:00:58,119 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/presumm
+[2020-09-18 12:00:58,165 INFO scorer.py:64 : score()] getting scores for model: presumm, variant: out_ext_abs.txt, file num: 0
+[2020-09-18 12:00:58,228 INFO scorer.py:64 : score()] getting scores for model: presumm, variant: out_trans_abs.txt, file num: 1
+[2020-09-18 12:00:58,295 INFO scorer.py:64 : score()] getting scores for model: presumm, variant: out_abs.txt, file num: 2
+[2020-09-18 12:00:58,353 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/bart
+[2020-09-18 12:00:58,398 INFO scorer.py:64 : score()] getting scores for model: bart, variant: out.txt, file num: 0
+[2020-09-18 12:00:58,463 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/fast_abs_rl
+[2020-09-18 12:00:58,527 INFO scorer.py:64 : score()] getting scores for model: fast_abs_rl, variant: out_rerank.txt, file num: 0
+[2020-09-18 12:00:58,601 INFO scorer.py:64 : score()] getting scores for model: fast_abs_rl, variant: out_1.txt, file num: 1
+[2020-09-18 12:00:58,665 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/two_stage_rl
+[2020-09-18 12:00:58,710 INFO scorer.py:64 : score()] getting scores for model: two_stage_rl, variant: out.txt, file num: 0
+[2020-09-18 12:00:58,767 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/t5
+[2020-09-18 12:00:58,812 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_base.txt, file num: 0
+[2020-09-18 12:00:58,864 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_large.txt, file num: 1
+[2020-09-18 12:00:58,914 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_11B.txt, file num: 2
+[2020-09-18 12:00:58,967 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_3B.txt, file num: 3
+[2020-09-18 12:00:59,018 INFO scorer.py:64 : score()] getting scores for model: t5, variant: out_small.txt, file num: 4
+[2020-09-18 12:00:59,070 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/bottom_up
+[2020-09-18 12:00:59,114 INFO scorer.py:64 : score()] getting scores for model: bottom_up, variant: out.txt, file num: 0
+[2020-09-18 12:00:59,165 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/ptr_generator
+[2020-09-18 12:00:59,209 INFO scorer.py:64 : score()] getting scores for model: ptr_generator, variant: out_pointer_gen.txt, file num: 0
+[2020-09-18 12:00:59,261 INFO scorer.py:64 : score()] getting scores for model: ptr_generator, variant: out_pointer_gen_cov.txt, file num: 1
+[2020-09-18 12:00:59,320 INFO scorer.py:64 : score()] getting scores for model: ptr_generator, variant: out_baseline.txt, file num: 2
+[2020-09-18 12:00:59,363 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/unilm
+[2020-09-18 12:00:59,409 INFO scorer.py:64 : score()] getting scores for model: unilm, variant: out_v1.txt, file num: 0
+[2020-09-18 12:00:59,470 INFO scorer.py:64 : score()] getting scores for model: unilm, variant: out_v2.txt, file num: 1
+[2020-09-18 12:00:59,524 INFO get_scores.py:87 : main()] getting scores for documents in ../../capstone/summarization-capstone/selected_docs_for_human_eval/abs/neusumm
+[2020-09-18 12:00:59,570 INFO scorer.py:64 : score()] getting scores for model: neusumm, variant: out.txt, file num: 0
