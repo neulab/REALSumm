@@ -56,7 +56,7 @@ Supported metrics are ``rouge, js2, bertscore, rwe, moverscore, wms, sms`` where
 
 After scoring the summaries by whichever metrics you want, collect all the output pickle files in a directory and merge them using
 ```
-python -m score_dict_update.py --in_path <directory with all scored dicts> --out_path <output scores dict path> -action convert_to_new merge dedup
+python -m score_dict_update.py --in_path <directory with all scored dicts> --out_path <output scores dict path> -action merge dedup
 ```
 
 ## Collecting human judgements
@@ -80,7 +80,5 @@ To gather annotations on AMT, use the following steps:
 3. Run ``python clean annotators script`` to remove rogue annotators (if any) and get clean annotations.
 4. Use ``notebook to get human scores and add to sd`` to calculate the human scores for each summary and add it to our metrics scores dict. This can now be used to analyze metrics!
 
-You can download the [scores dict containing human judgments here](add link here).
-
 ## Reevaluating metrics
-The [final scores dict](Add link here) contains all automatic metric as well as human judgments. This is used by [analysis_notebook](Add link here) for all the analysis done in the paper.
+The [final scores dicts](https://github.com/neulab/REALSumm/tree/master/scores_dicts) contain all automatic metric as well as human judgments. These are used by [analysis_notebook](Add link here) for all the analysis done in the paper.
