@@ -44,17 +44,52 @@ There are total 35 system outputs, 16 extractive and 19 abstractive.
 - [Aligned outputs used for scoring](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 - [Aligned ouputs used for human evaluation](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 
-Please read our reproducibility instructions (TODO: add link) in addition to
+Please read our [reproducibility instructions](https://github.com/neulab/REALSumm/blob/master/reproducibility.md) in addition to
 our paper (TODO: add link) in order to reproduce this work for another dataset.
 
 # Meta-evaluate a new metric on CNN/DM
 ## I can score all the given summaries 
-1. Just give a scores dict in the below format
-2. Run the analysis notebook on the scores dict to get all the graphs and tables
+1. Just give a scores dict in the below format. Make sure to include ``litepyramid_recall``, which is the metric used by human evaluators, in the scores dict.
+2. Run [the analysis notebook](https://github.com/neulab/REALSumm/blob/master/analysis/analysis.ipynb) on the scores dict to get all the graphs and tables used in the paper.
 
 ## Help me score the given summaries
-1. Download the released outputs used for human evaluation
-2. Add a new function in this python file
-3. Run using this
-4. Your scores dict is generated here
-5. Run the analysis notebook on the scores dict to get all the graphs and tables
+1. Download the released outputs used for human evaluation. (TODO: make sure they can be directly used)
+2. Update ``scorer.py`` such that (1) if there is any setup required by your metric, make sure to do it in the ``__init__`` function of scorere as the scorere will be used to score all systems. And (2) add your metric in the ``score`` function as
+```python
+elif self.metric == "name_of_my_new_metric":
+  scores = call_to_my_function_which_gives_scores(passing_appropriate_arguments)
+```
+
+where ``scores`` is a list of scores corresponding to each summary in a file. It should be a list of dictionaries e.g. ``[{'precision': 0.0, 'recall': 1.0} ...]``
+
+
+3. Calculate the scores and the scores dict using ``python get_scores.py --data_path <path to aligned summaries from step 1>/<abs or ext> --output_path ../score_dicts/abs_new_metric.pkl --log_path ../logs/scores.log -n_jobs 1 --metric <name of metric> ``
+4. Your scores dict is generated at the output path.
+5. Merge it with the scores dict with human scores provided in ``scores_dicts/`` using ``python score_dict_update.py --in_path <score dicts folder with the dicts to merge> --out_path <output path to place the merged dict pickle> -action merge``
+5. Your dict will be merged with the one with human scores and the output will be placed in ``out_path``. You can now run the analysis notebook on the scores dict to get all the graphs and tables
+
+## Scores dict format used
+
+
+
+    {
+        doc_id: {
+                'doc_id': value of doc id,
+                'ref_summ': reference summary of this doc,
+                'system_summaries': {
+                    system_name: {
+                            'system_summary': the generated summary,
+                            'scores': {
+                                'js-2': the actual score,
+                                'rouge_l_f_score': the actual score,
+                                'rouge_1_f_score': the actual score,
+                                'rouge_2_f_score': the actual score,
+                                'bert_f_score': the actual score
+                            }
+                    }
+                }
+            }
+    }
+    
+
+
