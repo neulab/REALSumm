@@ -1,7 +1,7 @@
 # REALSumm: Re-evaluating EvALuation in Summarization
 
 
-<img src="fig/eval.gif" width="800">
+<img src="fig/eval.gif" width="700">
 
 
 
