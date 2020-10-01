@@ -1,5 +1,10 @@
 # REALSumm: Re-evaluating EvALuation in Summarization
 
+
+<img src="fig/eval.gif" width="150">
+
+
+
 ## Collected System summaries
 
 | SNo. | Model | Paper | Variant | Type |
