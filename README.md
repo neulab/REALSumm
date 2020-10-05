@@ -9,22 +9,22 @@
 
 | Paper | # variants | Type | All Outputs | Scored outputs |
 | ----- | ---------- | ---- | ------- | -------------- |
-[Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/abs/2004.12393) | 1 | Extractive | link | link | 
-[Extractive Summarization as Text Matching](https://arxiv.org/abs/2004.08795) | 1 | Extractive | link | link |
-[Searching for Effective Neural Extractive Summarization: What Works and What’s Next](https://www.aclweb.org/anthology/P19-1100/) | 5 | Extractive | link | link |
-[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | 1 | Extractive | link | link |
-[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://www.aclweb.org/anthology/N18-1158/) | 1 | Extractive | link | link |
-[Neural Document Summarization by Jointly Learning to Score and Select Sentences](https://www.aclweb.org/anthology/P18-1061/) | 1 | Extractive| link | link |
-[BanditSum: Extractive Summarization as a Contextual Bandit](https://www.aclweb.org/anthology/D18-1409/) | 1 | Extractive | link | link |
-[Learning by Semantic Similarity Makes Abstractive Summarization Better](https://arxiv.org/abs/2002.07767) | 1 | Abstractive| link | link |
-[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | 1 | Abstractive | link | link |
-[Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387/) | 3 | Abstractive| link | link |
-[Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243) | 1 | Abstractive| link | link |
-[Unified Language Model Pre-training for Natural Language Understanding and Generation](https://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation) | 2 | Abstractive| link | link |
-[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | 3 | Abstractive| link | link |
-[Bottom-Up Abstractive Summarization](https://www.aclweb.org/anthology/D18-1443/) | 1 | Abstractive| link | link |
-[Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://www.aclweb.org/anthology/P18-1063/) | 1 | Abstractive| link | link |
-[Get To The Point: Summarization with Pointer-Generator Networks](https://www.aclweb.org/anthology/P17-1099/) | 1 | Abstractive| link | link |
+[Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/abs/2004.12393) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1a5qZvCZeqVkmrE_SqpxaOR5dOKYJ-sFy?usp=sharing) | link | 
+[Extractive Summarization as Text Matching](https://arxiv.org/abs/2004.08795) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1ZnYaboV3rbOw-TN6wNy3dG8seFa7INvy?usp=sharing) | link |
+[Searching for Effective Neural Extractive Summarization: What Works and What’s Next](https://www.aclweb.org/anthology/P19-1100/) | 5 | Extractive | [link}(https://drive.google.com/drive/folders/1Ore6cH_L14Nm-ow4JRUG4uMChWdYgW4q?usp=sharing) | link |
+[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1kOnSZ6dkJy3fT4UybhTbuTRP2_9bT13O?usp=sharing) | link |
+[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://www.aclweb.org/anthology/N18-1158/) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1Rq5TA3ycssLj1kr-U3cNyeTvQoXK5m5_?usp=sharing) | link |
+[Neural Document Summarization by Jointly Learning to Score and Select Sentences](https://www.aclweb.org/anthology/P18-1061/) | 1 | Extractive| [link](https://drive.google.com/drive/folders/1k1R21BbpO-K8L-NLRhDqFTWcVe6fabWL?usp=sharing) | link |
+[BanditSum: Extractive Summarization as a Contextual Bandit](https://www.aclweb.org/anthology/D18-1409/) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1Z3ywNNW0so5hUx6SJJQHhipwReYZA1vR?usp=sharing) | link |
+[Learning by Semantic Similarity Makes Abstractive Summarization Better](https://arxiv.org/abs/2002.07767) | 1 | Abstractive| [link](https://drive.google.com/drive/folders/1Di9TOiy1547a4-buRHIxYqgaMn13DEJo?usp=sharing) | link |
+[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | 1 | Abstractive | [link](https://drive.google.com/drive/folders/1M5NQH2gudleynUVRLwQ4mqxzyoxIiO8L?usp=sharing) | link |
+[Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387/) | 3 | Abstractive| [link](https://drive.google.com/drive/folders/1sgYBUFoXjMoz6QBAh5DWSJSQLtZYHrtr?usp=sharing) | link |
+[Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243) | 1 | Abstractive| [link](https://drive.google.com/drive/folders/1AbxvzXkEjqSVpyMrXbhBsw1sGkFiSan7?usp=sharing) | link |
+[Unified Language Model Pre-training for Natural Language Understanding and Generation](https://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation) | 2 | Abstractive| [link](https://drive.google.com/drive/folders/1OV2tAXPY1EWKSfSwNWi5SJGMDLNDGIea?usp=sharing) | link |
+[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | 3 | Abstractive| [link](https://drive.google.com/drive/folders/1WAq5q-VQCaUIPhx1NKgIFTDnJLG7V2rv?usp=sharing) | link |
+[Bottom-Up Abstractive Summarization](https://www.aclweb.org/anthology/D18-1443/) | 1 | Abstractive| [link](https://drive.google.com/drive/folders/1BeK0AgkkWK5PdTZv56kOUabrvPBFkKLX?usp=sharing) | link |
+[Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://www.aclweb.org/anthology/P18-1063/) | 1 | Abstractive| [link](https://drive.google.com/drive/folders/1IFV2dD-1B0eOWo_wukz4wW_E0OukjL02?usp=sharing) | link |
+[Get To The Point: Summarization with Pointer-Generator Networks](https://www.aclweb.org/anthology/P17-1099/) | 1 | Abstractive| [link](https://drive.google.com/drive/folders/1b3wplLG1kQ1UZj8A2TBzrdCbSc76L13P?usp=sharing) | link |
 
 There are total 25 system outputs, 11 extractive and 14 abstractive.
 - [Full aligned outputs used for scoring](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
