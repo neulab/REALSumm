@@ -26,7 +26,7 @@
 [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://www.aclweb.org/anthology/P18-1063/) | 1 | Abstractive| [link](https://drive.google.com/drive/folders/1IFV2dD-1B0eOWo_wukz4wW_E0OukjL02?usp=sharing) | [link](https://drive.google.com/drive/folders/1Y6mZimKo_dO44VPKrjHEyg84QI92QDH4?usp=sharing) |
 [Get To The Point: Summarization with Pointer-Generator Networks](https://www.aclweb.org/anthology/P17-1099/) | 1 | Abstractive| [link](https://drive.google.com/drive/folders/1b3wplLG1kQ1UZj8A2TBzrdCbSc76L13P?usp=sharing) | [link](https://drive.google.com/drive/folders/1aGjOhaQ5O4JRaJlRaF4VIocJ5Am1UiG8?usp=sharing) |
 
-There are total 25 system outputs, 11 extractive and 14 abstractive.
+Including all the system variants, there are total 25 system outputs - 11 extractive and 14 abstractive.
 - [All outputs](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 - [All ouputs used for human evaluation](https://github.com/neulab/REALSumm/tree/master/selected_docs_for_human_eval)
 - [All outputs with human scores](https://github.com/neulab/REALSumm/tree/master/scores_dicts)
