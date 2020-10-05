@@ -11,7 +11,7 @@
 | ----- | ---------- | ---- | ------- | -------------- |
 [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/abs/2004.12393) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1a5qZvCZeqVkmrE_SqpxaOR5dOKYJ-sFy?usp=sharing) | link | 
 [Extractive Summarization as Text Matching](https://arxiv.org/abs/2004.08795) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1ZnYaboV3rbOw-TN6wNy3dG8seFa7INvy?usp=sharing) | link |
-[Searching for Effective Neural Extractive Summarization: What Works and What’s Next](https://www.aclweb.org/anthology/P19-1100/) | 5 | Extractive | [link}(https://drive.google.com/drive/folders/1Ore6cH_L14Nm-ow4JRUG4uMChWdYgW4q?usp=sharing) | link |
+[Searching for Effective Neural Extractive Summarization: What Works and What’s Next](https://www.aclweb.org/anthology/P19-1100/) | 5 | Extractive | [link](https://drive.google.com/drive/folders/1Ore6cH_L14Nm-ow4JRUG4uMChWdYgW4q?usp=sharing) | link |
 [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1kOnSZ6dkJy3fT4UybhTbuTRP2_9bT13O?usp=sharing) | link |
 [Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://www.aclweb.org/anthology/N18-1158/) | 1 | Extractive | [link](https://drive.google.com/drive/folders/1Rq5TA3ycssLj1kr-U3cNyeTvQoXK5m5_?usp=sharing) | link |
 [Neural Document Summarization by Jointly Learning to Score and Select Sentences](https://www.aclweb.org/anthology/P18-1061/) | 1 | Extractive| [link](https://drive.google.com/drive/folders/1k1R21BbpO-K8L-NLRhDqFTWcVe6fabWL?usp=sharing) | link |
