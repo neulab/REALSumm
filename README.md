@@ -69,9 +69,9 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>3</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td rowspan="5">Searching for Effective Neural Extractive&nbsp;&nbsp;&nbsp;Summarization: What Works and What’s Next</td>
+    <td rowspan="5"><a href="https://www.aclweb.org/anthology/P19-1100.pdf">Searching for Effective Neural Extractive Summarization: What Works and What’s Next</a></td>
     <td>LSTM+PN+RL</td>
-    <td rowspan="5"><a href="">Bib</a></td>
+    <td rowspan="5"><a href="https://www.aclweb.org/anthology/P19-1100.bib">Bib</a></td>
   </tr>
   <tr>
     <td>4</td>
