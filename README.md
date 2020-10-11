@@ -87,27 +87,27 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   </tr>
   <tr>
     <td>6</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>BERT+LSTM+PN</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>BERT+LSTM+PN+RL</td>
   </tr>
   <tr>
     <td>8</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">BART: Denoising Sequence-to-Sequence&nbsp;&nbsp;&nbsp;Pre-training for Natural Language Generation, Translation, and Comprehension</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>9</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">Ranking Sentences for Extractive&nbsp;&nbsp;&nbsp;Summarization with Reinforcement Learning</td>
     <td><a href="">Bib</a></td>
   </tr>
