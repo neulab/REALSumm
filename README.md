@@ -101,29 +101,29 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>8</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2"><a hef="https://www.aclweb.org/anthology/2020.acl-main.703.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/2020.acl-main.703.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.703.bib">Bib</a></td>
   </tr>
   <tr>
     <td>9</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">Ranking Sentences for Extractive&nbsp;&nbsp;&nbsp;Summarization with Reinforcement Learning</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/N18-1158.pdf">Ranking Sentences for Extractive&nbsp;&nbsp;&nbsp;Summarization with Reinforcement Learning</a></td>
+    <td><a href="https://www.aclweb.org/anthology/N18-1158.bib">Bib</a></td>
   </tr>
   <tr>
     <td>10</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">Neural Document Summarization by&nbsp;&nbsp;&nbsp;Jointly Learning to Score and Select Sentences</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/P18-1061.pdf">Neural Document Summarization by&nbsp;&nbsp;&nbsp;Jointly Learning to Score and Select Sentences</a></td>
+    <td><a href="https://www.aclweb.org/anthology/P18-1061.bib">Bib</a></td>
   </tr>
   <tr>
     <td>11</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">BanditSum: Extractive Summarization&nbsp;&nbsp;&nbsp;as a Contextual Bandit</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/D18-1409.pdf">BanditSum: Extractive Summarization&nbsp;&nbsp;&nbsp;as a Contextual Bandit</a></td>
+    <td><a href="https://www.aclweb.org/anthology/D18-1409.bib">Bib</a></td>
   </tr>
   <tr>
     <td rowspan="14">Abstractive</td>
