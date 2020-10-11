@@ -75,7 +75,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="">Download</a>/td>
+    <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
     <td>BERT+TF+SL</td>
   </tr>
