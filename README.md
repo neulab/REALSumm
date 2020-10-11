@@ -144,9 +144,9 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>14</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td rowspan="3">Text Summarization with Pretrained Encoders</td>
+    <td rowspan="3"><a href="https://www.aclweb.org/anthology/D19-1387.pdf">Text Summarization with Pretrained Encoders</a></td>
     <td>TransAbs</td>
-    <td rowspan="3"><a href="">Bib</a></td>
+    <td rowspan="3"><a href="https://www.aclweb.org/anthology/D19-1387.bib">Bib</a></td>
   </tr>
   <tr>
     <td>15</td>
@@ -164,16 +164,16 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>17</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">Pretraining-Based Natural Language&nbsp;&nbsp;&nbsp;Generation for Text Summarization</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/K19-1074.pdf">Pretraining-Based Natural Language Generation for Text Summarization</a></td>
+    <td><a href="https://www.aclweb.org/anthology/K19-1074.bib">Bib</a></td>
   </tr>
   <tr>
     <td>18</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td rowspan="2">Unified Language Model Pre-training for Natural&nbsp;&nbsp;&nbsp;Language Understanding and Generation</td>
+    <td rowspan="2"><a href="http://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation.pdf">Unified Language Model Pre-training for Natural Language Understanding and Generation</a></td>
     <td>v1</td>
-    <td rowspan="2"><a href="">Bib</a></td>
+    <td rowspan="2"><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:u_6By4rPxSAJ:scholar.google.com/&output=citation&scisdr=CgXIMYmZEPmS1n5esr0:AAGBfm0AAAAAX4Jbqr3HHbaP5Zr4wDxP9priYAOQD3i8&scisig=AAGBfm0AAAAAX4Jbqs8g6PXoClyx85xETMb9e7Vwd6B0&scisf=4&ct=citation&cd=-1&hl=en">Bib</a></td>
   </tr>
   <tr>
     <td>19</td>
@@ -185,9 +185,9 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>20</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td rowspan="3">Exploring the Limits of Transfer Learning with a&nbsp;&nbsp;&nbsp;Unified Text-to-Text Transformer</td>
+    <td rowspan="3"><a href="https://arxiv.org/pdf/1910.10683.pdf">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></td>
     <td>Base</td>
-    <td rowspan="3"><a href="">Bib</a></td>
+    <td rowspan="3"><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:esM38LPDnF0J:scholar.google.com/&output=citation&scisdr=CgXIMYmZEPmS1n5ZDek:AAGBfm0AAAAAX4JcFekfvqjXomIfKDT2-XVfZsQeOt5h&scisig=AAGBfm0AAAAAX4JcFTBxzquHyZT9z__dw7D6Pg_EDePu&scisf=4&ct=citation&cd=-1&hl=en">Bib</a></td>
   </tr>
   <tr>
     <td>21</td>
@@ -212,15 +212,15 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>24</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">Fast Abstractive Summarization with&nbsp;&nbsp;&nbsp;Reinforce-Selected Sentence Rewriting</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://arxiv.org/pdf/1805.11080.pdf">Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting</a></td>
+    <td><a href="https://www.aclweb.org/anthology/P18-1063.bib">Bib</a></td>
   </tr>
   <tr>
     <td>25</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">Get To The Point:&nbsp;&nbsp;&nbsp;Summarization with Pointer-Generator Networks</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://arxiv.org/pdf/1704.04368.pdf">Get To The Point Summarization with Pointer-Generator Networks</a></td>
+    <td><a href="https://www.aclweb.org/anthology/P17-1099.bib">Bib</a></td>
   </tr>
 </tbody>
 </table>
