@@ -101,8 +101,8 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>8</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">BART: Denoising Sequence-to-Sequence&nbsp;&nbsp;&nbsp;Pre-training for Natural Language Generation, Translation, and Comprehension</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a hef="https://www.aclweb.org/anthology/2020.acl-main.703.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
+    <td><a href="https://www.aclweb.org/anthology/2020.acl-main.703.bib">Bib</a></td>
   </tr>
   <tr>
     <td>9</td>
