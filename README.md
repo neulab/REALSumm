@@ -3,7 +3,7 @@
 ### Author: [Manik Bhandari](https://manikbhandari.github.io/), [Pranav Gour](https://scholar.google.com/citations?user=OKM72KwAAAAJ&hl=en), [Atabak Ashfaq](https://www.linkedin.com/in/atabakashfaq), [Pengfei Liu](http://pfliu.com/), [Graham Neubig](http://www.phontron.com/)
 
 ## Outline
-* ###[Motivation](https://github.com/neulab/REALSumm#Motivation)
+* ### [Motivation](https://github.com/neulab/REALSumm#Motivation)
 * [Released Data](https://github.com/neulab/REALSumm#Released-Data)
 * [Meta-evaluation Tool](https://github.com/neulab/REALSumm#Meta-evaluation-Tool)
 * [Bib](https://github.com/neulab/REALSumm#Bib)
