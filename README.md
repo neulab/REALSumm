@@ -2,7 +2,12 @@
 
 ### Author: [Manik Bhandari](https://manikbhandari.github.io/), [Pranav Gour](https://scholar.google.com/citations?user=OKM72KwAAAAJ&hl=en), [Atabak Ashfaq](https://www.linkedin.com/in/atabakashfaq), [Pengfei Liu](http://pfliu.com/), [Graham Neubig](http://www.phontron.com/)
 
-## Outlines
+## Outline
+* [Motivation](https://github.com/neulab/REALSumm#Motivation)
+* Released Resources
+* Meta-evaluation Tool
+* Bib
+
 
 
 
