@@ -1,6 +1,9 @@
 # REALSumm: Re-evaluating EvALuation in Summarization
 
 
+
+## Motivation
+
 <img src="fig/eval.gif" width="700">
 
 
