@@ -113,112 +113,112 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   </tr>
   <tr>
     <td>10</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">Neural Document Summarization by&nbsp;&nbsp;&nbsp;Jointly Learning to Score and Select Sentences</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>11</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">BanditSum: Extractive Summarization&nbsp;&nbsp;&nbsp;as a Contextual Bandit</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td rowspan="14">Abstractive</td>
     <td>12</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">Learning by Semantic&nbsp;&nbsp;&nbsp;Similarity Makes Abstractive Summarization Better</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>13</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">BART: Denoising Sequence-to-Sequence&nbsp;&nbsp;&nbsp;Pre-training for Natural Language Generation, Translation, and Comprehension</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>14</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td rowspan="3">Text Summarization with Pretrained Encoders</td>
     <td>TransAbs</td>
     <td rowspan="3"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>15</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>Abs</td>
   </tr>
   <tr>
     <td>16</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>ExtAbs</td>
   </tr>
   <tr>
     <td>17</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">Pretraining-Based Natural Language&nbsp;&nbsp;&nbsp;Generation for Text Summarization</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>18</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td rowspan="2">Unified Language Model Pre-training for Natural&nbsp;&nbsp;&nbsp;Language Understanding and Generation</td>
     <td>v1</td>
     <td rowspan="2"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>19</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>v2</td>
   </tr>
   <tr>
     <td>20</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td rowspan="3">Exploring the Limits of Transfer Learning with a&nbsp;&nbsp;&nbsp;Unified Text-to-Text Transformer</td>
     <td>Base</td>
     <td rowspan="3"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>21</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>Large</td>
   </tr>
   <tr>
     <td>22</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>11B</td>
   </tr>
   <tr>
     <td>23</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">Bottom-Up Abstractive Summarization</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>24</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">Fast Abstractive Summarization with&nbsp;&nbsp;&nbsp;Reinforce-Selected Sentence Rewriting</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>25</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td colspan="2">Get To The Point:&nbsp;&nbsp;&nbsp;Summarization with Pointer-Generator Networks</td>
     <td><a href="">Bib</a></td>
   </tr>
