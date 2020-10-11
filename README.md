@@ -47,7 +47,6 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td><a href="https://drive.google.com/drive/folders/1a5qZvCZeqVkmrE_SqpxaOR5dOKYJ-sFy?usp=sharing">Download</a></td>
     <td><a href="https://drive.google.com/drive/folders/1dQf2cTb8KlieQdisIv9x5Xl78AL3rmGJ?usp=sharing">Download</a></td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.553.pdf">Heterogeneous Graph Neural Networks for Extractive Document Summarization</a></td>
-    <td>None</td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.553.bib">Bib</a></td>
   </tr>
   <tr>
@@ -55,7 +54,6 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td><a href="https://drive.google.com/drive/folders/1ZnYaboV3rbOw-TN6wNy3dG8seFa7INvy?usp=sharing">Download</a></td>
     <td><a href="https://drive.google.com/drive/folders/1sUXx5nHrdc1oxKNPEzRUCVI63pYBaluf?usp=sharing">Download</a></td>
     <td><a href="https://arxiv.org/pdf/2004.08795.pdf">Extractive Summarization as Text Matching</a></td>
-    <td>None</td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.552.bib">Bib</a></td>
   </tr>
   <tr>
