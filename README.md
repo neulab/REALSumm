@@ -284,5 +284,14 @@ where ``scores`` is a list of scores corresponding to each summary in a file. It
     }
     
 ## Bib
+```
+@inproceedings{Bhandari-2020-reevaluating,
+title = "Re-evaluating Evaluation in Text Summarization",
+author = "Bhandari, Manik  and Narayan Gour, Pranav  and Ashfaq, Atabak  and  Liu, Pengfei and Neubig, Graham ",
+booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+year = "2020"
+}
+
+```
 
 
