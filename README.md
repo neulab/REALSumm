@@ -55,7 +55,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.553.pdf">Heterogeneous Graph Neural Networks for Extractive Document Summarization</a></td>
     <td>None</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -63,7 +63,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td>Extractive Summarization as Text Matching</td>
     <td>None</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -71,7 +71,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td rowspan="5">Searching for Effective Neural Extractive&nbsp;&nbsp;&nbsp;Summarization: What Works and What’s Next</td>
     <td>LSTM+PN+RL</td>
-    <td rowspan="5">Bib</td>
+    <td rowspan="5"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>4</td>
@@ -102,28 +102,28 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td>download</td>
     <td colspan="2">BART: Denoising Sequence-to-Sequence&nbsp;&nbsp;&nbsp;Pre-training for Natural Language Generation, Translation, and Comprehension</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>9</td>
     <td>download</td>
     <td>download</td>
     <td colspan="2">Ranking Sentences for Extractive&nbsp;&nbsp;&nbsp;Summarization with Reinforcement Learning</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>10</td>
     <td>download</td>
     <td>download</td>
     <td colspan="2">Neural Document Summarization by&nbsp;&nbsp;&nbsp;Jointly Learning to Score and Select Sentences</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>11</td>
     <td>download</td>
     <td>download</td>
     <td colspan="2">BanditSum: Extractive Summarization&nbsp;&nbsp;&nbsp;as a Contextual Bandit</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td rowspan="14">Abstractive</td>
@@ -131,14 +131,14 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td>download</td>
     <td colspan="2">Learning by Semantic&nbsp;&nbsp;&nbsp;Similarity Makes Abstractive Summarization Better</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>13</td>
     <td>download</td>
     <td>download</td>
     <td colspan="2">BART: Denoising Sequence-to-Sequence&nbsp;&nbsp;&nbsp;Pre-training for Natural Language Generation, Translation, and Comprehension</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>14</td>
@@ -146,7 +146,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td rowspan="3">Text Summarization with Pretrained Encoders</td>
     <td>TransAbs</td>
-    <td rowspan="3">Bib</td>
+    <td rowspan="3"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>15</td>
@@ -165,7 +165,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td>download</td>
     <td colspan="2">Pretraining-Based Natural Language&nbsp;&nbsp;&nbsp;Generation for Text Summarization</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>18</td>
@@ -173,7 +173,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td rowspan="2">Unified Language Model Pre-training for Natural&nbsp;&nbsp;&nbsp;Language Understanding and Generation</td>
     <td>v1</td>
-    <td rowspan="2">Bib</td>
+    <td rowspan="2"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>19</td>
@@ -187,7 +187,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td rowspan="3">Exploring the Limits of Transfer Learning with a&nbsp;&nbsp;&nbsp;Unified Text-to-Text Transformer</td>
     <td>Base</td>
-    <td rowspan="3">Bib</td>
+    <td rowspan="3"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>21</td>
@@ -206,21 +206,21 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>download</td>
     <td>download</td>
     <td colspan="2">Bottom-Up Abstractive Summarization</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>24</td>
     <td>download</td>
     <td>download</td>
     <td colspan="2">Fast Abstractive Summarization with&nbsp;&nbsp;&nbsp;Reinforce-Selected Sentence Rewriting</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>25</td>
     <td>download</td>
     <td>download</td>
     <td colspan="2">Get To The Point:&nbsp;&nbsp;&nbsp;Summarization with Pointer-Generator Networks</td>
-    <td>Bib</td>
+    <td><a href="">Bib</a></td>
   </tr>
 </tbody>
 </table>
