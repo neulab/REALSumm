@@ -51,38 +51,38 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   <tr>
     <td rowspan="11">Extractive</td>
     <td>1</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.553.pdf">Heterogeneous Graph Neural Networks for Extractive Document Summarization</a></td>
     <td>None</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>Extractive Summarization as Text Matching</td>
     <td>None</td>
     <td><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td rowspan="5">Searching for Effective Neural Extractive&nbsp;&nbsp;&nbsp;Summarization: What Works and What’s Next</td>
     <td>LSTM+PN+RL</td>
     <td rowspan="5"><a href="">Bib</a></td>
   </tr>
   <tr>
     <td>4</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a>/td>
+    <td><a href="">Download</a></td>
     <td>BERT+TF+SL</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>download</td>
-    <td>download</td>
+    <td><a href="">Download</a></td>
+    <td><a href="">Download</a></td>
     <td>BERT+TF+PN</td>
   </tr>
   <tr>
