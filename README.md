@@ -4,9 +4,9 @@
 
 ## Outline
 * [Motivation](https://github.com/neulab/REALSumm#Motivation)
-* Released Resources
-* Meta-evaluation Tool
-* Bib
+* [Released Data](https://github.com/neulab/REALSumm#Released-Data)
+* [Meta-evaluation Tool](https://github.com/neulab/REALSumm#Meta-evaluation-Tool)
+* [Bib](https://github.com/neulab/REALSumm#Bib)
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-## Collected System summaries
+## Released Data
 
 | Paper | Variants | Type | All Outputs | Scored outputs |
 | ----- | ---------- | ---- | ------- | -------------- |
@@ -239,12 +239,13 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
 
 
 
-# Evaluate a new metric on CNN/DM
+## Meta-evaluation Tool
+
 1. Calculate the metric scores for each of the summary and create a scores dict in the below format. See the section below to calculate scores with a new metric.
 Make sure to include ``litepyramid_recall`` in the scores dict, which is the metric used by human evaluators.
 2. Run [the analysis notebook](https://github.com/neulab/REALSumm/blob/master/analysis/analysis.ipynb) on the scores dict to get all the graphs and tables used in the paper.
 
-## Calculating scores with a new metric
+### Calculating scores with a new metric
 1. Update ``scorer.py`` such that (1) if there is any setup required by your metric, it is done in the ``__init__`` function of scorer as the scorer will be used to score all systems. And (2) add your metric in the ``score`` function as
 ```python
 elif self.metric == "name_of_my_new_metric":
@@ -259,7 +260,7 @@ where ``scores`` is a list of scores corresponding to each summary in a file. It
 4. Merge it with the scores dict with human scores provided in ``scores_dicts/`` using ``python score_dict_update.py --in_path <score dicts folder with the dicts to merge> --out_path <output path to place the merged dict pickle> -action merge``
 5. Your dict will be merged with the one with human scores and the output will be placed in ``out_path``. You can now run the analysis notebook on the scores dict to get all the graphs and tables used in the paper.
 
-## Scores dict format used
+### Scores dict format used
 
 
 
@@ -282,5 +283,6 @@ where ``scores`` is a list of scores corresponding to each summary in a file. It
             }
     }
     
+## Bib
 
 
