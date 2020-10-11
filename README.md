@@ -53,7 +53,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>1</td>
     <td>download</td>
     <td>download</td>
-    <td>Heterogeneous Graph Neural Networks for Extractive Document Summarization</td>
+    <td><a href="https://www.aclweb.org/anthology/2020.acl-main.553.pdf">Heterogeneous Graph Neural Networks for Extractive Document Summarization</a></td>
     <td>None</td>
     <td>Bib</td>
   </tr>
