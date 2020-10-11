@@ -55,15 +55,15 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td><a href="">Download</a></td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.553.pdf">Heterogeneous Graph Neural Networks for Extractive Document Summarization</a></td>
     <td>None</td>
-    <td><a href="">Bib</a></td>
+    <td><a href="https://www.aclweb.org/anthology/2020.acl-main.553.bib">Bib</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td>Extractive Summarization as Text Matching</td>
+    <td><a href="https://arxiv.org/pdf/2004.08795.pdf">Extractive Summarization as Text Matching</a></td>
     <td>None</td>
-    <td><a href="">Bib</a></td>
+    <td><a href="https://www.aclweb.org/anthology/2020.acl-main.552.bib">Bib</a></td>
   </tr>
   <tr>
     <td>3</td>
