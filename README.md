@@ -99,44 +99,44 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   </tr>
   <tr>
     <td>8</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1kOnSZ6dkJy3fT4UybhTbuTRP2_9bT13O?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/19KVizzuL7pEv-xPvz5LPKsaHaUot21h0?usp=sharing">Download</a></td>
     <td colspan="2"><a href="https://www.aclweb.org/anthology/2020.acl-main.703.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.703.bib">Bib</a></td>
   </tr>
   <tr>
     <td>9</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
-    <td colspan="2"><a href="https://www.aclweb.org/anthology/N18-1158.pdf">Ranking Sentences for Extractive&nbsp;&nbsp;&nbsp;Summarization with Reinforcement Learning</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1Rq5TA3ycssLj1kr-U3cNyeTvQoXK5m5_?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/11XvUzbZKa3BV_bt0cBGzsYugRxpmNIew?usp=sharing">Download</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/N18-1158.pdf">Ranking Sentences for Extractive Summarization with Reinforcement Learning</a></td>
     <td><a href="https://www.aclweb.org/anthology/N18-1158.bib">Bib</a></td>
   </tr>
   <tr>
     <td>10</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
-    <td colspan="2"><a href="https://www.aclweb.org/anthology/P18-1061.pdf">Neural Document Summarization by&nbsp;&nbsp;&nbsp;Jointly Learning to Score and Select Sentences</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1k1R21BbpO-K8L-NLRhDqFTWcVe6fabWL?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/16Vux_5Nnpg3_VUUeMmBJA0o4XL5E6SRZ?usp=sharing">Download</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/P18-1061.pdf">Neural Document Summarization by Jointly Learning to Score and Select Sentences</a></td>
     <td><a href="https://www.aclweb.org/anthology/P18-1061.bib">Bib</a></td>
   </tr>
   <tr>
     <td>11</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1Z3ywNNW0so5hUx6SJJQHhipwReYZA1vR?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/140CLeUdNPOwdLM_82n3iHHNbR5bg6H-c?usp=sharing">Download</a></td>
     <td colspan="2"><a href="https://www.aclweb.org/anthology/D18-1409.pdf">BanditSum: Extractive Summarization as a Contextual Bandit</a></td>
     <td><a href="https://www.aclweb.org/anthology/D18-1409.bib">Bib</a></td>
   </tr>
   <tr>
     <td rowspan="14">Abstractive</td>
     <td>12</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1Di9TOiy1547a4-buRHIxYqgaMn13DEJo?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1jKnqQbJhYJGVwnLZ9sccT7oSUtpKS4La?usp=sharing">Download</a></td>
     <td colspan="2"><a href="https://arxiv.org/pdf/2002.07767.pdf">Learning by Semantic Similarity Makes Abstractive Summarization Better</a></td>
     <td><a href="https://arxiv.org/pdf/2002.07767.pdf">Bib</a></td>
   </tr>
   <tr>
     <td>13</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1M5NQH2gudleynUVRLwQ4mqxzyoxIiO8L?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1bKasCvsZE8w0r1qObKZylDahuOsqpBAh?usp=sharing">Download</a></td>
     <td colspan="2"><a href="https://www.aclweb.org/anthology/2020.acl-main.703.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
     <td><a href="https://www.aclweb.org/anthology/2020.acl-main.703.bib">Bib</a></td>
   </tr>
@@ -162,8 +162,8 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   </tr>
   <tr>
     <td>17</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1AbxvzXkEjqSVpyMrXbhBsw1sGkFiSan7?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1D8IgFwgi2bGkNFZvbi23TWPhKrprJSjC?usp=sharing">Download</a></td>
     <td colspan="2"><a href="https://www.aclweb.org/anthology/K19-1074.pdf">Pretraining-Based Natural Language Generation for Text Summarization</a></td>
     <td><a href="https://www.aclweb.org/anthology/K19-1074.bib">Bib</a></td>
   </tr>
@@ -210,15 +210,15 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   </tr>
   <tr>
     <td>24</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1IFV2dD-1B0eOWo_wukz4wW_E0OukjL02?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1Y6mZimKo_dO44VPKrjHEyg84QI92QDH4?usp=sharing">Download</a></td>
     <td colspan="2"><a href="https://arxiv.org/pdf/1805.11080.pdf">Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting</a></td>
     <td><a href="https://www.aclweb.org/anthology/P18-1063.bib">Bib</a></td>
   </tr>
   <tr>
     <td>25</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1b3wplLG1kQ1UZj8A2TBzrdCbSc76L13P?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1aGjOhaQ5O4JRaJlRaF4VIocJ5Am1UiG8?usp=sharing">Download</a></td>
     <td colspan="2"><a href="https://arxiv.org/pdf/1704.04368.pdf">Get To The Point Summarization with Pointer-Generator Networks</a></td>
     <td><a href="https://www.aclweb.org/anthology/P17-1099.bib">Bib</a></td>
   </tr>
