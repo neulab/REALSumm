@@ -60,34 +60,34 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/1arRQxV7Emn1ia-2J-IhKEdh8BkUwLLSG/view?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/1qyJFkp-86Ve-KjMpFlYKYH1bT3x6twvD/view?usp=sharing">Download</a></td>
     <td rowspan="5"><a href="https://www.aclweb.org/anthology/P19-1100.pdf">Searching for Effective Neural Extractive Summarization: What Works and What’s Next</a></td>
     <td>LSTM+PN+RL</td>
     <td rowspan="5"><a href="https://www.aclweb.org/anthology/P19-1100.bib">Bib</a></td>
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/1i2GtoOhHhbQGxKf38j0FcNuI-B8F866L/view?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/1fqWFPfeHkgIOIw775Lq4OeJIGU7odV0z/view?usp=sharing">Download</a></td>
     <td>BERT+TF+SL</td>
   </tr>
   <tr>
     <td>5</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/1nr11C6C47ixn0nEUS49tzHjVMj9hQSft/view?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/1j3gTJIcM2cyQ2WlVsjoWLlFw9WiXy1fu/view?usp=sharing">Download</a></td>
     <td>BERT+TF+PN</td>
   </tr>
   <tr>
     <td>6</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/10ppCHPGxv3CPs-Cp7sINq6YdmFp9m3Ci/view?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/11iDk9QKrPjnWA7U9q0g0OT-6wfexakZL/view?usp=sharing">Download</a></td>
     <td>BERT+LSTM+PN</td>
   </tr>
   <tr>
     <td>7</td>
-    <td><a href="">Download</a></td>
-    <td><a href="">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/18tC3jVN_ktyTq2_YZ8OQTNZ73XJgpmhv/view?usp=sharing">Download</a></td>
+    <td><a href="https://drive.google.com/file/d/1cCF4egR8VhvYaAayXXIt3s1SxaGK1lGZ/view?usp=sharing">Download</a></td>
     <td>BERT+LSTM+PN+RL</td>
   </tr>
   <tr>
