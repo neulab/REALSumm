@@ -122,7 +122,7 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>11</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2"><a href="https://www.aclweb.org/anthology/D18-1409.pdf">BanditSum: Extractive Summarization&nbsp;&nbsp;&nbsp;as a Contextual Bandit</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/D18-1409.pdf">BanditSum: Extractive Summarization as a Contextual Bandit</a></td>
     <td><a href="https://www.aclweb.org/anthology/D18-1409.bib">Bib</a></td>
   </tr>
   <tr>
@@ -130,15 +130,15 @@ our paper (TODO: add link) in order to reproduce this work for another dataset.
     <td>12</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">Learning by Semantic&nbsp;&nbsp;&nbsp;Similarity Makes Abstractive Summarization Better</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://arxiv.org/pdf/2002.07767.pdf">Learning by Semantic Similarity Makes Abstractive Summarization Better</a></td>
+    <td><a href="https://arxiv.org/pdf/2002.07767.pdf">Bib</a></td>
   </tr>
   <tr>
     <td>13</td>
     <td><a href="">Download</a></td>
     <td><a href="">Download</a></td>
-    <td colspan="2">BART: Denoising Sequence-to-Sequence&nbsp;&nbsp;&nbsp;Pre-training for Natural Language Generation, Translation, and Comprehension</td>
-    <td><a href="">Bib</a></td>
+    <td colspan="2"><a href="https://www.aclweb.org/anthology/2020.acl-main.703.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
+    <td><a href="https://www.aclweb.org/anthology/2020.acl-main.703.bib">Bib</a></td>
   </tr>
   <tr>
     <td>14</td>
