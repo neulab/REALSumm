@@ -29,7 +29,7 @@ Including all the system variants, there are total 25 system outputs - 11 extrac
 - [All outputs with human scores](https://github.com/neulab/REALSumm/tree/master/scores_dicts)
 
 Please read our [reproducibility instructions](https://github.com/neulab/REALSumm/blob/master/reproducibility.md) in addition to
-our paper (TODO: add link) in order to reproduce this work for another dataset.
+our [paper](https://arxiv.org/pdf/2010.07100.pdf) in order to reproduce this work for another dataset.
 
 
 <table>
