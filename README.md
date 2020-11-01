@@ -3,10 +3,10 @@
 #### Author: [Manik Bhandari](https://manikbhandari.github.io/), [Pranav Gour](https://scholar.google.com/citations?user=OKM72KwAAAAJ&hl=en), [Atabak Ashfaq](https://www.linkedin.com/in/atabakashfaq), [Pengfei Liu](http://pfliu.com/), [Graham Neubig](http://www.phontron.com/)
 
 ## Outline
-* ### [Leaderboard](https://github.com/neulab/Leaderboard)
-* ### [Motivation](https://github.com/neulab/REALSumm#Motivation)
-* ### [Released Data](https://github.com/neulab/REALSumm#Released-Data)
-* ### [Meta-evaluation Tool](https://github.com/neulab/REALSumm#Meta-evaluation-Tool)
+* ### [Leaderboard](https://github.com/neulab/Leaderboard-1)
+* ### [Motivation](https://github.com/neulab/REALSumm#Motivation-1)
+* ### [Released Data](https://github.com/neulab/REALSumm#Released-Data-1)
+* ### [Meta-evaluation Tool](https://github.com/neulab/REALSumm#Meta-evaluation-Tool-1)
 * ### [Bib](https://github.com/neulab/REALSumm#Bib-1)
 
 
