@@ -7,7 +7,7 @@
 * ### [Motivation](https://github.com/neulab/REALSumm#Motivation)
 * ### [Released Data](https://github.com/neulab/REALSumm#Released-Data)
 * ### [Meta-evaluation Tool](https://github.com/neulab/REALSumm#Meta-evaluation-Tool)
-* ### [Bib](https://github.com/neulab/REALSumm#Bib)
+* ### [Bib](https://github.com/neulab/REALSumm#Bib-1)
 
 
 
