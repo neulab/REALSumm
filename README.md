@@ -30,6 +30,7 @@ Evaluating summarization is hard. Most papers still use ROUGE, but recently a ho
 Including all the system variants, there are total 25 system outputs - 11 extractive and 14 abstractive.
 - [All outputs](https://drive.google.com/file/d/1z9WGs-mC7JO8U5PgEYE_SrekST7nC64x/view?usp=sharing)
 - [All ouputs used for human evaluation](https://github.com/neulab/REALSumm/tree/master/selected_docs_for_human_eval)
+- [Semantic Content Units (SCUs) and manual annotations of outputs](https://github.com/neulab/REALSumm/tree/master/human_annotations/SCUs_and_annotations)
 - [All outputs with human scores](https://github.com/neulab/REALSumm/tree/master/scores_dicts)
 
 Please read our [reproducibility instructions](https://github.com/neulab/REALSumm/blob/master/reproducibility.md) in addition to
