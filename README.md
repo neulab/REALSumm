@@ -12,7 +12,7 @@
 
 
 ## Leaderboard
-A Leaderboard for Automatic Metrics (Released in two weeks)
+[ExplainaBoard](http://explainaboard.nlpedia.ai/?search=metaeval)
 
 
 ## Motivation
