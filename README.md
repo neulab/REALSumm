@@ -13,7 +13,7 @@
 
 ## Leaderboard
 [ExplainaBoard](http://explainaboard.nlpedia.ai/?search=metaeval)
-
+<img src="fig/leaderboardf.png" width="700">
 
 ## Motivation
 Evaluating summarization is hard. Most papers still use ROUGE, but recently a host of metrics (eg BERTScore, MoverScore) report better correlation with human eval. However, these were tested on older systems (the classic TAC meta-evaluation datasets are now 6-12 years old), how do they fare with SOTA models? Will conclusions found there hold with modern systems and summarization tasks?
