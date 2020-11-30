@@ -1,6 +1,7 @@
 # REALSumm: Re-evaluating EvALuation in Summarization
 
-#### Author: [Manik Bhandari](https://manikbhandari.github.io/), [Pranav Gour](https://scholar.google.com/citations?user=OKM72KwAAAAJ&hl=en), [Atabak Ashfaq](https://www.linkedin.com/in/atabakashfaq), [Pengfei Liu](http://pfliu.com/), [Graham Neubig](http://www.phontron.com/)
+#### Paper: [Re-evaluating Evaluation in Text Summarization](https://www.aclweb.org/anthology/2020.emnlp-main.751/)
+#### Authors: [Manik Bhandari](https://manikbhandari.github.io/), [Pranav Gour](https://scholar.google.com/citations?user=OKM72KwAAAAJ&hl=en), [Atabak Ashfaq](https://www.linkedin.com/in/atabakashfaq), [Pengfei Liu](http://pfliu.com/), [Graham Neubig](http://www.phontron.com/)
 
 ## Outline
 * ### [Leaderboard](https://github.com/neulab/Leaderboard-1)
